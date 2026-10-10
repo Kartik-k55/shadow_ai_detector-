@@ -1,0 +1,6 @@
+{"ts": 1728514900.101, "host": "api.openai.com", "id_orig_h": "10.0.12.44", "id_resp_h": "104.18.2.14", "id_resp_p": 443, "orig_bytes": 452000, "resp_bytes": 1820000, "proto": "tcp", "service": "ssl"}
+{"ts": 1728514902.202, "host": "api.deepseek.com", "id_orig_h": "10.0.12.98", "id_resp_h": "104.22.15.67", "id_resp_p": 443, "orig_bytes": 890000, "resp_bytes": 3200000, "proto": "tcp", "service": "ssl"}
+{"ts": 1728514904.303, "host": "192.168.1.105:11434", "id_orig_h": "10.0.12.15", "id_resp_h": "192.168.1.105", "id_resp_p": 11434, "orig_bytes": 1540000, "resp_bytes": 6800000, "proto": "tcp", "service": "http"}
+{"ts": 1728514906.404, "host": "claude.ai", "id_orig_h": "10.0.12.72", "id_resp_h": "162.159.136.234", "id_resp_p": 443, "orig_bytes": 340000, "resp_bytes": 1200000, "proto": "tcp", "service": "ssl"}
+{"ts": 1728514908.505, "host": "generativelanguage.googleapis.com", "id_orig_h": "10.0.12.80", "id_resp_h": "142.250.190.42", "id_resp_p": 443, "orig_bytes": 120000, "resp_bytes": 450000, "proto": "tcp", "service": "ssl"}
+{"ts": 1728514910.606, "host": "api.perplexity.ai", "id_orig_h": "10.0.12.33", "id_resp_h": "104.18.23.19", "id_resp_p": 443, "orig_bytes": 620000, "resp_bytes": 2100000, "proto": "tcp", "service": "ssl"}

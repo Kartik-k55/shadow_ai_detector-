@@ -1,0 +1,17 @@
+source_ip,domain,classification
+10.0.1.15,api.openai.com,AI
+10.0.1.22,claude.ai,AI
+10.0.1.34,chat.deepseek.com,AI
+10.0.2.45,generativelanguage.googleapis.com,AI
+10.0.2.56,192.168.1.105:11434,AI
+10.0.3.12,api.perplexity.ai,AI
+10.0.3.88,copilot-proxy.githubusercontent.com,AI
+10.0.4.19,api.cursor.sh,AI
+10.0.4.40,api.mistral.ai,AI
+10.0.5.11,github.com,NON_AI
+10.0.5.25,docs.python.org,NON_AI
+10.0.5.38,stackoverflow.com,NON_AI
+10.0.6.14,internal-jira.enterprise.local,NON_AI
+10.0.6.50,cdn.cloudflare.com,NON_AI
+10.0.7.99,google.com,AI_TEST_MISLABELLED
+10.0.8.20,api-inference.huggingface.co,AI
